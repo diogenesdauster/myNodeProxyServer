@@ -1,0 +1,24 @@
+{
+  "name": "mynodeproxysever",
+  "version": "1.0.0",
+  "description": "a node proxy server for handling requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogenesdauster/myNodeProxyServer.git"
+  },
+  "keywords": [
+    "node",
+    "http",
+    "proxy"
+  ],
+  "author": "Diógenes Dauster",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diogenesdauster/myNodeProxyServer/issues"
+  },
+  "homepage": "https://github.com/diogenesdauster/myNodeProxyServer#readme"
+}
