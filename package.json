@@ -4,6 +4,7 @@
   "description": "a node proxy server for handling requests",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/diogenesdauster/myNodeProxyServer/issues"
   },
-  "homepage": "https://github.com/diogenesdauster/myNodeProxyServer#readme"
+  "homepage": "https://github.com/diogenesdauster/myNodeProxyServer#readme",
+  "dependencies": {
+    "http-proxy": "^1.17.0"
+  }
 }
